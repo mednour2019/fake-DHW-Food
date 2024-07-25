@@ -1,0 +1,2 @@
+1) Sales Tax Amount: Calculated as order_amount * sales_tax_rate.    // calculations of measures =>(KPI)
+2) benefit: orderAmount - profit

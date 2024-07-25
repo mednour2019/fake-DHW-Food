@@ -1,0 +1,4 @@
+id_paiement,methode_de_paiement
+1,Especes
+2,Carte de Credit
+3,Paiement en ligne
